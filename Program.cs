@@ -1,9 +1,21 @@
-﻿bool flag = true;
-int value = 0;
+﻿using System;
 
-if (flag)
+namespace MyNewApp
 {
-    value = 10;
-    Console.WriteLine("Inside of code block: " + value);
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string value = "Microsoft Learn";
+            string reversedValue = Reverse(value);
+            Console.WriteLine($"Secret message: {reversedValue}");
+        }
+
+        static string Reverse(string message)
+        {
+            char[] letters = message.ToCharArray();
+            Array.Reverse(letters);
+            return new string(letters);
+        }
+    }
 }
-Console.WriteLine("Outside of code block: " + value);
