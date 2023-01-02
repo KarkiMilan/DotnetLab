@@ -1,0 +1,15 @@
+C:\Users\MILAN\Documents\DotnetLab\bin\Debug\net6.0\DotnetLab.exe
+C:\Users\MILAN\Documents\DotnetLab\bin\Debug\net6.0\DotnetLab.deps.json
+C:\Users\MILAN\Documents\DotnetLab\bin\Debug\net6.0\DotnetLab.runtimeconfig.json
+C:\Users\MILAN\Documents\DotnetLab\bin\Debug\net6.0\DotnetLab.dll
+C:\Users\MILAN\Documents\DotnetLab\bin\Debug\net6.0\DotnetLab.pdb
+C:\Users\MILAN\Documents\DotnetLab\obj\Debug\net6.0\DotnetLab.csproj.AssemblyReference.cache
+C:\Users\MILAN\Documents\DotnetLab\obj\Debug\net6.0\DotnetLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MILAN\Documents\DotnetLab\obj\Debug\net6.0\DotnetLab.AssemblyInfoInputs.cache
+C:\Users\MILAN\Documents\DotnetLab\obj\Debug\net6.0\DotnetLab.AssemblyInfo.cs
+C:\Users\MILAN\Documents\DotnetLab\obj\Debug\net6.0\DotnetLab.csproj.CoreCompileInputs.cache
+C:\Users\MILAN\Documents\DotnetLab\obj\Debug\net6.0\DotnetLab.dll
+C:\Users\MILAN\Documents\DotnetLab\obj\Debug\net6.0\refint\DotnetLab.dll
+C:\Users\MILAN\Documents\DotnetLab\obj\Debug\net6.0\DotnetLab.pdb
+C:\Users\MILAN\Documents\DotnetLab\obj\Debug\net6.0\DotnetLab.genruntimeconfig.cache
+C:\Users\MILAN\Documents\DotnetLab\obj\Debug\net6.0\ref\DotnetLab.dll
