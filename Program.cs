@@ -5,26 +5,34 @@ using System.Text;
 using System.Threading.Tasks;
 namespace DemoApplication
 {
- class Tutorial
+ public class Tutorial
  {
-  int TutorialID; 
-  string TutorialName;
+  protected int TutorialID; 
+  protected string TutorialName;
   
   public void SetTutorial(int pID,string pName) 
   {
    TutorialID=pID;
    TutorialName=pName;
   }
+  
   public String GetTutorial()
   {
    return TutorialName;
   }
+ }
+  public class Guru99Tutorial:Tutorial
+  {
+   public void RenameTutorial(String pNewName)
+   {
+    TutorialName=pNewName;
+   }
   
   static void Main(string[] args) 
   {
-   Tutorial pTutor=new Tutorial();
-    
-   pTutor.SetTutorial(1,".Net");
+   Guru99Tutorial pTutor=new Guru99Tutorial();
+   
+   pTutor.RenameTutorial(".Net by Guru99");
     
    Console.WriteLine(pTutor.GetTutorial());
     
